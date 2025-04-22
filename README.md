@@ -1,11 +1,11 @@
 # AxisappTask
 
 I choose Selenuim for multiple reasons:
-1- Open-Source and Free and easy to get the answers of my questions.
-2- I can integrate it with many tools like TestNG and allure reports.
-3- multi-language, and multi-browser capabilities.  
+1. Open-Source and Free and easy to get the answers of my questions.
+2. I can integrate it with many tools like TestNG and allure reports.
+3. multi-language, and multi-browser capabilities.  
 
-**How to Setup Thee Project**
+**How to Setup The Project**
 1. You can clone the project.
 2. Import the Project in Eclipse IDE.
 3. The Structure of Project is following POM (Project Object Model).
